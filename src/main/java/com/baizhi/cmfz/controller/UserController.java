@@ -4,5 +4,6 @@ public class UserController {
     public void test() {
         System.out.println();
         System.out.println("aaa");
+        System.out.println();
     }
 }
